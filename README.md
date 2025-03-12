@@ -36,6 +36,10 @@ sum(int(digit) *** num_digits for digit in num_str) → Fixed: sum(int(digit) **
 
 Incorrect function name used in the range printing function
 
+
+Used VS Code IDE to identify the errors and fix it.
+Then gave the two codes to chatgpt and asked it to identify the changes between the two
+
 def print_narcis_numbers(start, end) → Fixed: def print_narc_numbers(start, end)
 
 Incorrect function call inside the loop
